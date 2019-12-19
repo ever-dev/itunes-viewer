@@ -1,0 +1,30 @@
+.entity {
+  width: 100%;
+  border: 1px solid;
+  padding: 10px;
+}
+
+.img-thumbnail {
+  margin-right: 10px;
+  height: 200px;
+}
+
+.track-name {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.artist-name {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.link-description {
+  font-size: 12px;
+}
+.link-description > a {
+  cursor: pointer;
+  text-decoration: underline;
+  color: blue;
+}
